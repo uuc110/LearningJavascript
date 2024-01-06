@@ -1,0 +1,180 @@
+{
+  "UnitName": "Introduction to Energy Science",
+  "Subunits": [
+    {
+      "SubunitName": "Energy Concepts and Definitions",
+      "Questions": [
+        {
+          "BaseQuestion": "What is energy?",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "Energy is essential for the economic growth of the country. Justify this statement.",
+          "Variations": [
+            "Development of a country is linked with the availability of energy resources and their consumption. Justify the statement."
+          ]
+        },
+        {
+          "BaseQuestion": "What is an environment? Enlist various segments of environment.",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "Define environment. How man affects his environment?",
+          "Variations": [
+            "For definition of environment, refer Q3."
+          ]
+        },
+        {
+          "BaseQuestion": "Explain the concept of sustainable development with suitable example.",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "Energy and environment are essential for sustainable development. Comment on the statement.",
+          "Variations": [
+            "Write an explanatory note on 'synergy between energy and environment'."
+          ]
+        },
+        {
+          "BaseQuestion": "Define conventional and non-conventional sources of energy.",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "Define renewable & non-renewable energy resources.",
+          "Variations": [
+            "Define renewable and non-renewable sources of energy with examples."
+          ]
+        },
+        {
+          "BaseQuestion": "Differentiate between renewable and non-renewable sources of energy with examples.",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "What are the conventional sources of energy for mankind?",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "Write a short note on India's energy scenario.",
+          "Variations": []
+        },
+        {
+          "BaseQuestion": "Write a short note on World energy scenario.",
+          "Variations": [
+            "Write an explanatory note on world energy scenario."
+          ]
+        },
+        {
+          "SubunitName": "Fossil Fuels (Coal, Oil, Oil Bearing Shale and Sands, Coal Gasification) - Past, Present and Future",
+          "Questions": [
+            {
+              "BaseQuestion": "What are fossil fuels?",
+              "Variations": [
+                "Write short note on — Fossil fuel resources."
+              ]
+            },
+            {
+              "BaseQuestion": "What is energy? Discuss various renewable and non-renewable sources of energy. Discuss the role of fossil fuels in the energy scenario of India",
+              "Variations": [],
+              "Reference": "See BaseQuestion of Q1 for the definition of energy."
+            },
+            {
+              "BaseQuestion": "Explain the role of coal as a major energy source.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Explain the potential of using oil as an energy source.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Write in brief about oil shale and tar sands as new fuel sources.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "What do you mean by gasification? How can it be an energy source?",
+              "Variations": []
+            }
+          ]
+        },
+        {
+          "SubunitName": "Remedies and Alternatives for Fossil Fuels - Biomass, Wind, Solar, Nuclear, Wave, Tidal, and Hydrogen Sustainability and Environment Trade-off of Different Energy Systems",
+          "Questions": [
+            {
+              "BaseQuestion": "What is green energy? What are its sources?",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Discuss renewable and non-renewable resources with examples.",
+              "Variations": [
+                "Explain conventional and non-conventional energy sources."
+              ]
+            },
+            {
+              "BaseQuestion": "Critically analyze the role and potential of unconventional renewable sources of energy with special reference to the Indian scenario.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Discuss the role played by nonconventional energy resources towards the protection of the environment.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "What do you mean by primary and secondary energy sources? Mention the difference between them with suitable examples.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "What do you mean by biomass?",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Write a short note on biomass energy.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "What are the different forms in which energy from biomass can be used?",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Give advantages and limitations of biomass energy.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Write a short note on wind energy and its prospects in India.",
+              "Variations": [
+                "Provide a short note on wind energy."
+              ],
+              "Reference": "For future prospects, merits and demerits, refer to Q31."
+            },
+            {
+              "BaseQuestion": "Give some applications of wind energy.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "Discuss the advantages and disadvantages of wind energy.",
+              "Variations": [],
+              "Reference": "For a detailed analysis, see Q30."
+            },
+            {
+              "BaseQuestion": "Discuss present status as well as future prospects, along with merits and demerits of wind power in India.",
+              "Variations": [],
+              "Reference": "Combine information from Q28 and Q30."
+            },
+            {
+              "BaseQuestion": "Describe the various components of a wind energy conversion system.",
+              "Variations": []
+            },
+            {
+              "BaseQuestion": "How is wind energy used for generation of electric power? Discuss the merits and demerits including limitations of wind energy.",
+              "Variations": [],
+              "Reference": "Refer to Q32 and Q30 for components and advantages/disadvantages."
+            },
+            {
+              "BaseQuestion": "How can we classify WEC systems? Give advantages of wind energy.",
+              "Variations": [],
+              "Reference": "Classification details might overlap with Q32."
+            }
+          ]
+        }
+        // Additional questions can be added here in the same format.
+      ]
+    }
+    // Additional subunits can be added here in the same format.
+  ]
+}
